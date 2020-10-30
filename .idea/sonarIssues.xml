@@ -3,12 +3,82 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/bin/start_postgres.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/plesk/learningspring/LearningSpringApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/plesk/learningspring/data/entity/Guest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/plesk/learningspring/data/entity/Reservation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/plesk/learningspring/data/entity/Room.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/plesk/learningspring/data/repository/GuestRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/plesk/learningspring/data/repository/ReservationRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/plesk/learningspring/data/repository/RoomRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/java/com/plesk/conferencedemo/ConferenceDemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/java/com/plesk/conferencedemo/models/Session.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/java/com/plesk/conferencedemo/models/Speaker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/resources/application.properties">
           <value>
             <set />
           </value>
