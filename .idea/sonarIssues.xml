@@ -58,6 +58,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/schema.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../../../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/pom.xml">
           <value>
             <set />
