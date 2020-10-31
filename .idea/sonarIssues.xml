@@ -8,6 +8,81 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/java/com/plesk/conferencedemo/ConferenceDemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/java/com/plesk/conferencedemo/models/Session.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/java/com/plesk/conferencedemo/models/Speaker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Learning/LinkedInLearning/Spring/Ex_Files_Learning_Spring_Spring_Boot/Exercise_Files/Chapter2/02_04/02_04_begin/learning-spring/src/main/java/com/plesk/learningspring/LearningSpringApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Learning/LinkedInLearning/Spring/Ex_Files_Learning_Spring_Spring_Boot/Exercise_Files/Chapter2/02_04/02_04_begin/learning-spring/src/main/java/com/plesk/learningspring/business/domain/RoomReservation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Learning/LinkedInLearning/Spring/Ex_Files_Learning_Spring_Spring_Boot/Exercise_Files/Chapter2/02_04/02_04_begin/learning-spring/src/main/java/com/plesk/learningspring/business/service/ReservationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Learning/LinkedInLearning/Spring/Ex_Files_Learning_Spring_Spring_Boot/Exercise_Files/Chapter2/02_04/02_04_begin/learning-spring/src/main/java/com/plesk/learningspring/data/entity/Reservation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Learning/LinkedInLearning/Spring/Ex_Files_Learning_Spring_Spring_Boot/Exercise_Files/Chapter2/02_04/02_04_begin/learning-spring/src/main/java/com/plesk/learningspring/data/repository/ReservationRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Learning/LinkedInLearning/Spring/Ex_Files_Learning_Spring_Spring_Boot/Exercise_Files/Chapter4/04_02/04_02_begin/learning-spring/src/main/java/com/frankmoley/lil/learningspring/LearningSpringApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Learning/LinkedInLearning/Spring/Ex_Files_Learning_Spring_Spring_Boot/Exercise_Files/Chapter4/04_02/04_02_begin/learning-spring/src/main/java/com/frankmoley/lil/learningspring/data/repository/ReservationRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Learning/LinkedInLearning/Spring/Ex_Files_Learning_Spring_Spring_Boot/Exercise_Files/Chapter4/04_02/04_02_begin/learning-spring/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Compare/Jeho.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Compare/Moje.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/bin/start_postgres.sh">
           <value>
             <set />
@@ -69,31 +144,6 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/schema.sql">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../../../../../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/pom.xml">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../../../../../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/java/com/plesk/conferencedemo/ConferenceDemoApplication.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../../../../../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/java/com/plesk/conferencedemo/models/Session.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../../../../../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/java/com/plesk/conferencedemo/models/Speaker.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../../../../../../../Pluralsight/Spring/creating-first-spring-boot-application/MyCode/Octo_20/conference-demo/src/main/resources/application.properties">
           <value>
             <set />
           </value>

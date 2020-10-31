@@ -9,7 +9,7 @@ import java.util.Date;
 @Repository
 public interface ReservationRepository extends CrudRepository<Reservation, Long> {
 
-    Iterable<Reservation> findReservationByByReservationDate(Date date);
+    Iterable<Reservation> findReservationByReservationDate(Date date);
 
 
 

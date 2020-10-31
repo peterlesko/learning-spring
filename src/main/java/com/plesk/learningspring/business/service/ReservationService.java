@@ -41,7 +41,7 @@ public class ReservationService {
             roomReservationMap.put(room.getRoomId(), roomReservation);
         });
 
-        Iterable<Reservation> reservations = this.reservationRepository.findReservationByByReservationDate(new java.sql.Date(date.getTime()));
+        Iterable<Reservation> reservations = this.reservationRepository.findReservationByReservationDate(new java.sql.Date(date.getTime()));
 
         reservations.forEach(reservation -> {
             RoomReservation roomReservation = roomReservationMap.get(reservation.getRoomId());
@@ -50,9 +50,8 @@ public class ReservationService {
             Guest guest = this.guestRepository.findById(reservation.getGuestId()).get();
             roomReservation.setFirstName(guest.getFirstName());
             roomReservation.setLastName(guest.getLastName());
-            roomReservation.setQuestId(guest.getGuestId());
+            roomReservation.setGuestId(guest.getGuestId());
         });
-
 
         List<RoomReservation> roomReservations = new ArrayList<>();
         for(Long id: roomReservationMap.keySet()){

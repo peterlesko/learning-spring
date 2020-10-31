@@ -4,10 +4,11 @@ import java.util.Date;
 
 public class RoomReservation {
     private long roomId;
-    private long questId;
+    private long guestId;
     private String roomName;
     private String roomNumber;
     private String firstName;
+
     private String lastName;
     private Date date;
 
@@ -20,12 +21,12 @@ public class RoomReservation {
         this.roomId = roomId;
     }
 
-    public long getQuestId() {
-        return questId;
+    public long getGuestId() {
+        return guestId;
     }
 
-    public void setQuestId(long questId) {
-        this.questId = questId;
+    public void setGuestId(long questId) {
+        this.guestId = questId;
     }
 
     public String getRoomName() {
